@@ -1,0 +1,22 @@
+{
+  "name": "html-to-text",
+  "version": "1.0.0",
+  "description": "A demo for transforming HTML to formatted text",
+  "main": "index.js",
+  "dependencies": {
+    "html-to-text": "^9.0.5"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "html",
+    "text",
+    "formatting"
+  ],
+  "author": "KHAOUITI ABDELHAKIM",
+  "license": "MIT"
+}
+
+
+
